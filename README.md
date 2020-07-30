@@ -94,7 +94,11 @@ You can join our forum as well
 * 한국어 유저 포럼 (Korean): http://ngrinder.642.n7.nabble.com/ngrinder-user-kr-f113.html
 * [![Developer chat at https://gitter.im/naver/ngrinder-kr](https://badges.gitter.im/naver/ngrinder-kr.svg)](https://gitter.im/naver/ngrinder-kr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
----------------------
+
+License
+-------------------
+
+     Copyright 2012-present NAVER Corp.
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -109,5 +113,5 @@ You can join our forum as well
      limitations under the License. 
       
    
-nGrinder includes the following software and libraries as follows. See the LICENSE folder for the license and copyright details for each.
-* https://github.com/naver/ngrinder/tree/master/license
+nGrinder includes the following software and libraries as follows. See NOTICE for the license and copyright details for each.
+* https://github.com/naver/ngrinder/tree/master/NOTICE
